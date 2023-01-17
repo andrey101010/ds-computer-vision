@@ -3,18 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# files
-01_Intro_EDA_Time_Series.ipynb
-02_Time_Series_Stock_Price.ipynb
-03_Time_Series_Moving_Average.ipynb
-04_Time_Series_Decompose_Smoothing.ipynb
-
+# mlflow 
+.mlflow_uri
+mlruns
 # C extensions
 *.so
 
-# DATA
-
-sensor.csv
 
 # Distribution / packaging
 .Python
