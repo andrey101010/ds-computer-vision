@@ -8,4 +8,4 @@ altair==4.1.0
 pmdarima==1.8.5
 tensorflow==2.11.0
 mlflow==1.2.0
-pytorch==1.11
+torch==1.11
