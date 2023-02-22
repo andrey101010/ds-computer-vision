@@ -56,7 +56,7 @@ mlflow ui
 
 and open the link [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-This will throw an error if the experiment already exists. **Save the experiment name in the [config file](modeling/config.py).**
+This will throw an error if the experiment already exists. **Save the experiment name in the [config file](mlflow_folder/config.py).**
 
 In order to train the model and store test data in the data folder and the model in models run:
 
