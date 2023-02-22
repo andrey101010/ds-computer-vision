@@ -6,6 +6,10 @@ seaborn==0.11.2
 scikit-learn==1.2.0
 altair==4.1.0
 pmdarima==1.8.5
-tensorflow==2.11.0
 mlflow==1.2.0
-torch==1.11
+torch==1.13.1
+torchvision==0.14.1
+torchinfo==1.7.2
+pytorch==0.0.67
+onnx==1.13.0
+onnxruntime==1.13.1
