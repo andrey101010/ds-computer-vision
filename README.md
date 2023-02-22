@@ -37,7 +37,7 @@ export MLFLOW_URI=http://127.0.0.1:5000/
 
 This links to your local mlflow, if you want to use a different one, then change the set uri.
 
-The code in the [config.py](modeling/config.py) will try to read it locally and if the file doesn't exist will look in the env var.. IF that is not set the URI will be empty in your code.
+The code in the [config.py](mlflow_folder/config.py) will try to read it locally and if the file doesn't exist will look in the env var.. IF that is not set the URI will be empty in your code.
 
 
 ### Creating an MLFlow experiment
