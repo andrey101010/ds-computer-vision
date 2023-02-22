@@ -15,6 +15,8 @@ pip install -r requirements.txt
 ```
 
 ## MLFlow
+MLFlow is a tool for tracking ML experiments. You can run it locally or remotely. It stores all the information about experiments in a database. And you can see the overview via the GUI or access it via APIs. Sending data to mlflow is done via APIs. And with mlflow you can also store models on S3 where you version them and tag them as production for serving them in production.
+
 The file to run the pytorch script and monitor it with mlflow is in mlflow_folder.
 
 ```BASH
